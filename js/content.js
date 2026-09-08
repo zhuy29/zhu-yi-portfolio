@@ -16,7 +16,7 @@ window.PORTFOLIO = {
 
   nav: [
     { href: "#coordinates", label: "我的坐标" },
-    { href: "#experience", label: "代表项目" },
+    { href: "#exp-06", label: "代表项目" },
     { href: "#vibe", label: "Vibe Coding" },
     { href: "#thinking", label: "思考与表达" },
     { href: "#contact", label: "联系我" },
