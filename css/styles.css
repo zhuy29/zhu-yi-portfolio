@@ -110,12 +110,12 @@ button {
   width: 2.25rem;
   height: 2.25rem;
   border-radius: 999px;
-  background: var(--terracotta);
-  color: #fff;
-  display: grid;
-  place-items: center;
-  font-weight: 600;
-  font-size: 0.95rem;
+  object-fit: cover;
+  object-position: center 20%;
+  display: block;
+  flex-shrink: 0;
+  border: 1.5px solid rgba(26, 26, 26, 0.12);
+  background: var(--terracotta-soft);
 }
 
 .brand-text {

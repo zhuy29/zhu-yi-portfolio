@@ -23,7 +23,7 @@
     return `
       <header class="site-nav" id="top">
         <a class="brand" href="#top">
-          <span class="brand-mark">${escape(P.meta.name.slice(0, 1))}</span>
+          <img class="brand-mark" src="${P.meta.navAvatar}" alt="${escape(P.meta.name)}" width="36" height="36" />
           <span class="brand-text">
             <strong>${escape(P.meta.name)}</strong>
             <small>${escape(P.meta.nameEn)} · PERSONAL SITE</small>

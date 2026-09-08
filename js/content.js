@@ -11,6 +11,7 @@ window.PORTFOLIO = {
     email: "2469695150@qq.com",
     resumeHref: "./assets/resume.pdf",
     photo: "./assets/hero-photo.png",
+    navAvatar: "./assets/nav-avatar.png",
     tagline: "把模糊的治理问题，做成可闭环的 Agent 产品。",
   },
 
