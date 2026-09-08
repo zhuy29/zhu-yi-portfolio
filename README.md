@@ -2,6 +2,8 @@
 
 暖色 Scrapbook / 编辑部风格单页站点。项目文案与简历口径对齐。
 
+**在线访问：** https://zhuy29.github.io/zhu-yi-portfolio/
+
 ## 本地预览
 
 ```bash
@@ -26,7 +28,18 @@ python3 -m http.server 5173
 | `contact` | 联系区 |
 
 照片：`assets/hero-photo.png`  
-简历：`assets/resume.pdf`
+简历：`assets/resume.pdf`（更新时直接覆盖此文件）
+
+## 部署更新
+
+改完后提交并推送即可自动更新 Pages：
+
+```bash
+cd ~/Projects/zhu-yi-portfolio
+git add -A
+git commit -m "update portfolio"
+git push
+```
 
 ## 结构
 
