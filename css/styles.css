@@ -817,6 +817,7 @@ button {
 
 .exp-item {
   position: relative;
+  scroll-margin-top: calc(var(--nav-h) + 1rem);
 }
 
 .timeline-node {

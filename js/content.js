@@ -30,7 +30,7 @@ window.PORTFOLIO = {
     personalityDesc: "做事干脆、爱较真，做人真诚、有韧劲。",
     quote:
       "我习惯先把问题拆成可评测的链路，再决定哪一段交给 Agent、哪一段必须留人。",
-    primaryCta: { label: "先看代表项目", href: "#experience" },
+    primaryCta: { label: "先看代表项目", href: "#exp-06" },
     secondaryCta: { label: "看看工作之外的我", href: "#thinking" },
     tags: [
       "Figma",
