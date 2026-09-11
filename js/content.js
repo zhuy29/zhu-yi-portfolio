@@ -208,7 +208,7 @@ window.PORTFOLIO = {
       },
       {
         no: "06",
-        date: "2026.06 — 2026.09",
+        date: "2026.04 — 2026.09",
         company: "携程",
         category: "信息流策略",
         role: "AI 产品经理",
